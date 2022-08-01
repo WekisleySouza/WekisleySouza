@@ -1,6 +1,5 @@
 ### Olá! Seja bem vindo(a) ao meu perfil! 👋
 
-- 🔭 Estou trabalhando com python atualmente
 - 🌱 Estou estudadando JavaScript
 - 📫 Meu e-mail: wekisleysouza.a@gmail.com
 
