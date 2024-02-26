@@ -1,9 +1,7 @@
 ### Olá! Seja bem vindo(a) ao meu perfil! 👋
 
-- 🌱 Estou estudadando JavaScript
+- 🌱 Estou estudando React
 - 📫 Meu e-mail: wekisleysouza.a@gmail.com
-
-<a href="https://instagram.com/wekisleys" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 
 <div align="center">
   <a href="https://github.com/WekisleySouza">
