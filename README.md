@@ -1,6 +1,5 @@
 ### Olá! Seja bem vindo(a) ao meu perfil! 👋
 
-- 🌱 Estou estudando React
 - 📫 Meu e-mail: wekisleysouza.a@gmail.com
 
 <div align="center">
